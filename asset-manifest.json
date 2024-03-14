@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bcc6739a.js",
+    "static/media/profile_3.jpg": "/static/media/profile_3.d145b272ce802dcb6254.jpg",
+    "static/media/mern_blog.png": "/static/media/mern_blog.34b707c5bb02e839e2c0.png",
+    "static/media/real_estate.png": "/static/media/real_estate.b999a6961f4fbeea81c4.png",
+    "static/media/svg-15.svg": "/static/media/svg-15.c94933f1bf7ab3758f05b564866abfc6.svg",
+    "static/media/laam_app1.png": "/static/media/laam_app1.0bab2147db7ffdcf5c56.png",
+    "static/media/svg-16.svg": "/static/media/svg-16.6bf2d83640c68a8374e17a904dbd1b26.svg",
+    "static/media/nlp_app.png": "/static/media/nlp_app.aef8256bd959d007cce4.png",
+    "static/media/svg-14.svg": "/static/media/svg-14.e95ddffccd92e180951bd16d06b3749b.svg",
+    "index.html": "/index.html",
+    "main.bcc6739a.js.map": "/static/js/main.bcc6739a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bcc6739a.js"
+  ]
+}
